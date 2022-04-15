@@ -1,4 +1,5 @@
-# simple unix socket wroted in c
+# simple unix socket wroted in c   
+make input string to upper case
 
 # how to use   
 ```bash
